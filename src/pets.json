@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Farhana",
+    "picture": "images/medicalrecord.jpg",
+    "age": 13,
+    "breed": "Dr.Sai Sree (Dermatologist)",
+    "location": "Female"
+  },
+  {
+    "id": 1,
+    "name": "Ginny",
+    "picture": "images/medicalrecord.jpg",
+    "age": 35,
+    "breed": "Dr.Rahul (Cardiologist)",
+    "location": "Female"
+  },
+  {
+    "id": 2,
+    "name": "Mr.Cullen",
+    "picture": "images/medicalrecord.jpg",
+    "age": 25,
+    "breed": "Dr.Sai Sree (Dermatologist)",
+    "location": "Male"
+  },
+  {
+    "id": 3,
+    "name": "Chitra",
+    "picture": "images/medicalrecord.jpg",
+    "age": 2,
+    "breed": "Dr.Rahul (Cardiologist)",
+    "location": "Female"
+  },
+  {
+    "id": 4,
+    "name": "Srinu",
+    "picture": "images/medicalrecord.jpg",
+    "age": 2,
+    "breed": "Dr.Sai Sree (Dermatologist)",
+    "location": "Male"
+  },
+  {
+    "id": 5,
+    "name": "Sravan",
+    "picture": "images/medicalrecord.jpg",
+    "age": 3,
+    "breed": "Dr.Rahul (Cardiologist)",
+    "location": "Male"
+  },
+  {
+    "id": 6,
+    "name": "Santhosh",
+    "picture": "images/medicalrecord.jpg",
+    "age": 3,
+    "breed": "Dr.Rahul (Cardiologist)",
+    "location": "Male"
+  },
+  {
+    "id": 7,
+    "name": "Harry",
+    "picture": "images/medicalrecord.jpg",
+    "age": 3,
+    "breed": "Dr.Sai Sree (Dermatologist)",
+    "location": "Male"
+  },
+  {
+    "id": 8,
+    "name": "Hermonie",
+    "picture": "images/medicalrecord.jpg",
+    "age": 2,
+    "breed": "Dr.Rahul (Cardiologist)",
+    "location": "Female"
+  },
+  {
+    "id": 9,
+    "name": "Fayaz",
+    "picture": "images/medicalrecord.jpg",
+    "age": 3,
+    "breed": "Dr.Sai Sree (Dermatologist)",
+    "location": "Male"
+  },
+  {
+    "id": 10,
+    "name": "Lissa",
+    "picture": "images/medicalrecord.jpg",
+    "age": 2,
+    "breed": "Dr.Hemanth (Dentist)",
+    "location": "Female"
+  },
+  {
+    "id": 11,
+    "name": "Dean",
+    "picture": "images/medicalrecord.jpg",
+    "age": 3,
+    "breed": "Dr.Sai Sree (Dermatologist)",
+    "location": "Male"
+  },
+  {
+    "id": 12,
+    "name": "Steven",
+    "picture": "images/medicalrecord.jpg",
+    "age": 3,
+    "breed": "Dr.Hemanth (Dentist)",
+    "location": "Male"
+  },
+  {
+    "id": 13,
+    "name": "Krithika",
+    "picture": "images/medicalrecord.jpg",
+    "age": 4,
+    "breed": "Dr.Sai Sree (Dermatologist)",
+    "location": "Female"
+  },
+  {
+    "id": 14,
+    "name": "Karthik",
+    "picture": "images/medicalrecord.jpg",
+    "age": 2,
+    "breed": "Dr.Hemanth (Dentist)",
+    "location": "Male"
+  },
+  {
+    "id": 15,
+    "name": "Kajol",
+    "picture": "images/medicalrecord.jpg",
+    "age": 2,
+    "breed": "Dr.Hemanth (Dentist)",
+    "location": "Female"
+  }
+]
